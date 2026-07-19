@@ -1,6 +1,6 @@
 # Michael Olmos
 
-**Film producer / Founder.** Building AI agents, native iOS/macOS apps, web apps, and creative tooling. Currently with the Boxel Innovation Team.
+**Creative technologist in LA — film/VFX roots, building with AI. Agents & agent tooling (Tsaagan 🦖), iOS apps, games. I design the systems; AI is my crew. Currently with the Boxel Studio Innovation Team.
 
 ---
 
